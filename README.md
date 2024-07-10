@@ -52,3 +52,7 @@ Enter a Prometheus query to visualize the data. For example, you can use a query
 Now you have Prometheus metrics available in Grafana, and you can start creating dashboards to visualize the metrics.
 
 
+visualization of memory usage with namespace monitoring in grafana
+
+![image](https://github.com/sathishkumar-2001/k8s_monitoring/assets/126504329/4386537f-b6e1-4f6b-b3cf-9bcb1c78f2d9)
+
